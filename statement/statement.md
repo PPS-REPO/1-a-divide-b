@@ -1,3 +1,7 @@
+<script type="text/javascript" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+</script>
+
 # 문제
 
 정수 a, b가 주어집니다.
