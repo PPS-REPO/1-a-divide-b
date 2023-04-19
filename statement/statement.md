@@ -1,7 +1,3 @@
-<script type="text/javascript" 
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
-</script>
-
 # 문제
 
 정수 a, b가 주어집니다.
@@ -17,4 +13,4 @@ a / b를 출력하는 프로그램을 작성해 주세요.
 
 # 출력
 
-출력 첫째 줄에 a / b를 출력하세요. 실제 정답과 출력값의 절대오차 또는 상대오차가 $$10^9$$ 이하면 정답입니다.
+출력 첫째 줄에 a / b를 출력하세요. 실제 정답과 출력값의 절대오차 또는 상대오차가 $10^9$ 이하면 정답입니다.
