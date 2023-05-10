@@ -15,7 +15,7 @@
             }
         }
     },
-    "enable_language": [],
+    "enable_language": null,
     "statements": [
         {
             "name": "statement.md",
@@ -117,5 +117,5 @@
         "config": 1,
         "repository": 1
     },
-    "deploy_uuid": "3c1cdb2b-8a46-4d82-8ded-05631e6f6cf9"
+    "deploy_uuid": "f6dceb06-9959-4333-a91b-2044155f092a"
 }
